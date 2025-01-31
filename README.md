@@ -1,4 +1,4 @@
-Here’s a simple way to explain the project:
+
 
 Introduction:
 
